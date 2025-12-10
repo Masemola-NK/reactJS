@@ -13,7 +13,11 @@
 ---
 ##Tech tool
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">JSX</img>
+<p>
+
+  <img src='https://img.shields.io/badge/Framework%20React-8A2BE2'/>
+
+</p>
 
 
 ---
