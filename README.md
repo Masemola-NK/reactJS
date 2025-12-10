@@ -17,6 +17,10 @@
 
   <img src='https://img.shields.io/badge/Framework: %20 React-8A2BE2'/>
   <img src='https://img.shields.io/badge/DataStructure: %20 JavaScript Object Notation-00913d'/>
+  <img src='https://img.shields.io/badge/Foundation: %20 Hypertext Markup Language-e68a1a'/>
+  <img src='https://img.shields.io/badge/Foundation: %20 JavaScript Xtended Markup Language-996633'/>
+  <img src='https://img.shields.io/badge/Styling : %20Cascade Styling Sheet-b82ea3'/>
+  <img src='https://img.shields.io/badge/Style packages: %80 Material User Interface-a6990d'/>
 
 </p>
 
