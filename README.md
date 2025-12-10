@@ -16,7 +16,7 @@
 <p>
 
   <img src='https://img.shields.io/badge/Framework: %20 React-8A2BE2'/>
-  <img src='https://img.shields.io/badge/DataStructure: %20 JavaScript Object Notation-00ff40'/>
+  <img src='https://img.shields.io/badge/DataStructure: %20 JavaScript Object Notation-00913d'/>
 
 </p>
 
