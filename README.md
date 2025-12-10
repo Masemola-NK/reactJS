@@ -1,7 +1,6 @@
-#sumary 
+# Summary 
 
-
-- ⚛️ *React Admin Dashboard built with React.js for modern, responsive, and scalable web applications.
+- ⚛️ React Admin Dashboard built with React.js for modern, responsive, and scalable web applications.
 - 🎨 **Material‑UI**  for sleek UI components, customizable themes, and dark/light mode support.
 - 📊 **Data Visualization** using Recharts / Chart.js with interactive line, bar, and pie charts for analytics.
 - 🗂️ **Reusable Components**: Sidebar, Navbar, Widgets, Tables, and Forms designed for modular development.
