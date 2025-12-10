@@ -15,7 +15,7 @@
 
 <p>
 
-  <img src='https://img.shields.io/badge/Framework%20React-8A2BE2'/>
+  <img src='https://img.shields.io/badge/Framework: %20 React-8A2BE2'/>
 
 </p>
 
