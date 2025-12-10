@@ -13,7 +13,8 @@
 ---
 ##Tech tool
 
-<img alt="Static Badge" src="https://img.shields.io/badge/JSX"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">JSX</img>
+
 
 ---
 # Further instructions for the FAQ
