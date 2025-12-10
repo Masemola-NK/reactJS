@@ -11,7 +11,7 @@
 - 🛠️ Extensible Architecture: Add new modules (e.g., CRM, e‑commerce, analytics) with minimal setup.
 
 ---
-##Tech tool
+## Tech tool
 
 <p>
 
@@ -20,7 +20,7 @@
   <img src='https://img.shields.io/badge/Foundation: %20 Hypertext Markup Language-e68a1a'/>
   <img src='https://img.shields.io/badge/Foundation: %20 JavaScript Xtended Markup Language-996633'/>
   <img src='https://img.shields.io/badge/Styling : %20Cascade Styling Sheet-b82ea3'/>
-  <img src='https://img.shields.io/badge/Style packages: %80 Material User Interface-a6990d'/>
+  <img src='https://img.shields.io/badge/Style packages: %20Material User Interface-a6990d'/>
 
 </p>
 
