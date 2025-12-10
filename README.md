@@ -11,6 +11,11 @@
 - 🛠️ Extensible Architecture: Add new modules (e.g., CRM, e‑commerce, analytics) with minimal setup.
 
 ---
+##Tech tool
+
+<img alt="Static Badge" src="https://img.shields.io/badge/JSX"/>
+
+---
 # Further instructions for the FAQ
 
 ## Getting Started with Create React App
